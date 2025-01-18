@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio Classification</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="audio_classifier_failed">Audio Classifier failed to initialize. See error logs for details</string>
+    <string name="no_audio_detected_yet">No audio detected yet</string>
+</resources>
